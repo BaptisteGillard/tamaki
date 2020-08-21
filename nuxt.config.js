@@ -44,7 +44,7 @@ export default {
    ** Change the API endpoint!
    */
   prismic: {
-    endpoint: 'https://tamaki.cdn.prismic.io/api/v2',
+    endpoint: 'https://web2business.cdn.prismic.io/api/v2',
     linkResolver: '@/plugins/link-resolver',
     htmlSerializer: '@/plugins/html-serializer',
     preview: false
